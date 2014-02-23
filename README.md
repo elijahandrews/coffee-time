@@ -6,6 +6,7 @@ Usage
 -----
 
 ` $ bundle install`
+
 ` $ ruby app.rb`
 
 Go to `http://localhost:4567`. Your question will be answered.
